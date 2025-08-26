@@ -3,6 +3,17 @@ This repository demonstrates how to use middlewares in Express.js, including bot
 
 ---
 
+## 📌 Features
+- Express built-in middlewares:
+  - `express.json()` for parsing JSON requests
+  - `express.urlencoded()` for parsing form data
+- Custom middlewares:
+  - Logging timestamps & requests
+- Route-level middleware usage
+- Multiple middlewares in a single route
+
+---
+
 ## 🛠️ Setup Instructions
 
 1. Clone the repository
