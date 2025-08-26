@@ -1,5 +1,5 @@
 # express-middlewares-setup
-This repository demonstrates how to use middlewares in Express.js, including both built-in (like
+This repository demonstrates how to use middlewares in Express.js, including both built-in (like express.json, express.urlencoded) and custom middleware functions (like logging request details).
 
 ---
 
