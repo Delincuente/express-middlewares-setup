@@ -10,4 +10,4 @@ const app = express();
 app.use('/api', route);
 app.listen(port, () => {
     console.log(`Server is running on port ${port}...`);
-});
+}); 
